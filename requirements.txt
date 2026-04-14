@@ -1,0 +1,21 @@
+# Python Learning Platform - Python Dependencies
+# ==============================================
+# 
+# ✅ ZERO EXTERNAL DEPENDENCIES REQUIRED
+# 
+# This project uses ONLY Python 3.x standard library.
+# No pip install needed!
+#
+# All levels use built-in Python modules:
+# - Built-in functions: print(), input(), range(), sum(), max(), min(), etc.
+# - Standard library modules: datetime (Level 11)
+#
+# Python 3.x comes with everything you need pre-installed.
+#
+# To verify your Python installation:
+#   python3 --version  # Should show Python 3.x
+#
+# That's it! No additional packages required.
+
+
+
